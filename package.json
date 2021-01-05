@@ -25,7 +25,8 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "@actions/core": "^1.2.4"
+    "@actions/core": "^1.2.0",
+    "aws-sdk": "^2.631.0"
   },
   "devDependencies": {
     "@types/jest": "^26.0.5",
